@@ -25,6 +25,7 @@ Step11 - Then buid the job to see if it was working or not.
 
 
 K8s repo - 
+
 Step12 - Then I created another git repo that contain Jenkinsfile for updating the daocker image tag in deployment.yaml file and yaml file for k8s and argocd
 
 Step13 - Then created pipeline for it.
