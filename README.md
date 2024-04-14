@@ -24,7 +24,7 @@ Step10 - Then created jenkins job for CI of pipeline selected webhook trigger an
 Step11 - Then buid the job to see if it was working or not.
 
 
-K8s repo - 
+K8s repo - https://github.com/nksinghfirst/kubernetes-.git
 
 Step12 - Then I created another git repo that contain Jenkinsfile for updating the daocker image tag in deployment.yaml file and yaml file for k8s and argocd
 
